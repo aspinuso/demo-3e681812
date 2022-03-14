@@ -221,6 +221,7 @@ dependencies:
     - cloudpickle==2.0.0
     - dask==2022.2.1
     - earthpy==0.9.4
+    - icclim==5.0.2
     - fiona==1.8.21
     - fsspec==2022.2.0
     - geopandas==0.10.2
