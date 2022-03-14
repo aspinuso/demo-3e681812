@@ -249,3 +249,4 @@ dependencies:
     - toolz==0.11.2
     - xarray==2022.3.0
     - xclim==0.34.0
+    - icclim==5.0.2
