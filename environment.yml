@@ -233,8 +233,7 @@ dependencies:
     - munch==2.5.0
     - nc-time-axis==1.4.0
     - networkx==2.7.1
-    - numba==0.55.1
-    - numpy==1.21
+    - numpy==1.21.5
     - pandas==1.4.1
     - partd==1.2.0
     - patsy==0.5.2
